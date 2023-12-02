@@ -1,0 +1,13 @@
+.nav-logo{
+    /* width: 4rem; */
+    width: 4vw;
+}
+
+#grid img, .flex-right img{
+    width: 20vw;
+}
+
+h1{
+    text-align: center;
+}
+
